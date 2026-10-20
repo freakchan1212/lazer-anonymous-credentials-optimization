@@ -1,0 +1,10 @@
+{
+  "task": "reuse",
+  "variant": "C3",
+  "sessions": 256,
+  "warmup": 0,
+  "formal": true,
+  "repeat": 1,
+  "verification_mode": "strict",
+  "id": "0373_reuse_C3"
+}

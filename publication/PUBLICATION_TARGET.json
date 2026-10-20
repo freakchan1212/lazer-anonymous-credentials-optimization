@@ -1,0 +1,10 @@
+{
+  "release": "public-research-artifact",
+  "source": "user latest three-version integrated manuscript",
+  "sha256": {
+    "final_tables.json": "a16aa4bb47826c8238588a3280d66b40153fc55a2a3b40aed750e33d2153afb3"
+  },
+  "table_number_map": "main1-7; supplementaryS1-S13",
+  "figures": "1-7",
+  "security_scope": "conditional parameter checks, not complete protocol security certification"
+}

@@ -1,0 +1,9 @@
+{
+  "task": "diagnostic",
+  "variant": "DC3",
+  "sessions": 100,
+  "warmup": 2,
+  "formal": false,
+  "verification_mode": "strict",
+  "id": "0405_diagnostic_DC3"
+}

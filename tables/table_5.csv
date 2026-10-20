@@ -1,0 +1,7 @@
+component,rhf_display,rhf_source,beta,classical_log2,quantum_log2,beta_source
+P1 MSIS,1.0043951113669505,fresh generic SIS subdimension model,347,101.324,91.955,generic SIS GSA
+P1 MLWE,1.0043734,attributed upstream multi-attack declaration; NOT rerun,350,102.19999999999999,92.75,fresh primal uSVP GSA
+P2 MSIS 填充,1.0043793102599736,fresh generic SIS subdimension model,349,101.90799999999999,92.485,generic SIS GSA
+P2 MSIS 紧致,1.0043707332665373,fresh generic SIS subdimension model,350,102.19999999999999,92.75,generic SIS GSA
+P2 MLWE,1.0043146,attributed upstream multi-attack declaration; NOT rerun,356,103.952,94.34,fresh primal uSVP GSA
+Falcon 原像代理,1.0038778275570117,fresh generic SIS subdimension model,416,121.472,110.24000000000001,generic SIS GSA

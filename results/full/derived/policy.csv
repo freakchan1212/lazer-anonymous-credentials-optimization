@@ -1,0 +1,10 @@
+variant,pattern,n,show_mean_ms,cache_hits,cache_populates
+C3,alternating,100,74.75810602,400,200
+C3,fixed,100,67.83639057,400,0
+C3,random,100,73.95889789,400,198
+G3,alternating,100,74.79848385,400,200
+G3,fixed,100,69.75605908,400,0
+G3,random,100,82.07399994,400,198
+V1,alternating,100,87.78997887,400,200
+V1,fixed,100,75.13668005,400,0
+V1,random,100,84.97369631,400,198

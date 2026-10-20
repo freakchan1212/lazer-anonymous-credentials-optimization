@@ -1,0 +1,12 @@
+{
+  "task": "main",
+  "variant": "B1",
+  "round": 3,
+  "block": 10,
+  "lifecycle": "fresh",
+  "verification_mode": "strict",
+  "sessions": 20,
+  "warmup": 2,
+  "formal": true,
+  "id": "0351_main_B1"
+}

@@ -1,0 +1,12 @@
+{
+  "task": "main",
+  "variant": "G3",
+  "round": 2,
+  "block": 10,
+  "lifecycle": "fresh",
+  "verification_mode": "strict",
+  "sessions": 20,
+  "warmup": 2,
+  "formal": true,
+  "id": "0236_main_G3"
+}

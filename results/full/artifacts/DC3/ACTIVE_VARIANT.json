@@ -1,0 +1,14 @@
+{
+  "active_variant": "DC3",
+  "parent_e3_variant": "V4",
+  "compact": true,
+  "arp_preflight": true,
+  "float_decisions_enabled": false,
+  "float_shadow_diagnostic": true,
+  "main_variants": [
+    "B1",
+    "G3",
+    "C3"
+  ],
+  "schema": "E4-20261018"
+}

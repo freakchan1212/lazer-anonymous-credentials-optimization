@@ -1,0 +1,12 @@
+{
+  "task": "main",
+  "variant": "C3",
+  "round": 1,
+  "block": 9,
+  "lifecycle": "steady",
+  "verification_mode": "raw",
+  "sessions": 20,
+  "warmup": 2,
+  "formal": true,
+  "id": "0099_main_C3"
+}

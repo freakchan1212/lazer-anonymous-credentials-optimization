@@ -1,0 +1,88 @@
+{
+  "version": "1.1-e2-frozen-metrics",
+  "active_variant": "V1",
+  "variant_metadata": {
+    "active_variant": "V1",
+    "parent_e3_variant": "V1",
+    "compact": false,
+    "arp_preflight": false,
+    "float_decisions_enabled": false,
+    "float_shadow_diagnostic": false,
+    "main_variants": [
+      "B1",
+      "G3",
+      "C3"
+    ],
+    "schema": "E4-20261018"
+  },
+  "status": "VARIANT_ACCURATE_CONFIGURATION_RECORDED",
+  "upstream_commit": "10eafeca4cd53ff4fc54193dce904dbd0026fefd",
+  "upstream_generator_target_bits": 128,
+  "target_interpretation": "original upstream setting, not a new independent concrete-security certification",
+  "relation_degree": 64,
+  "relation_modulus": 12289,
+  "P1_relation_shape": [
+    8,
+    24
+  ],
+  "P2_relation_shape": [
+    8,
+    48
+  ],
+  "credential_relation": {
+    "P1_relation_shape": [
+      8,
+      24
+    ],
+    "P2_relation_shape": [
+      8,
+      48
+    ],
+    "P2_compact_subspace_table": null
+  },
+  "disclosed_blocks": [
+    0,
+    4,
+    5
+  ],
+  "proofs": [
+    {
+      "component": "P1",
+      "proof_degree": 64,
+      "proof_modulus": 2199023255717,
+      "m1_secret_polys": 24,
+      "binary_polys": 8,
+      "knowledge_error_log2_upstream": -127.0,
+      "MSIS_original": "MSIS(17,79,2^(33.599457))",
+      "MLWE_original": "MLWE(26,29,[-1,1])",
+      "MSIS_rhf_original": 1.0043951,
+      "MSIS_rhf_recomputed": 1.0043321,
+      "MLWE_rhf_original": 1.0043734,
+      "theoretical_repetition_rate_original": 6.8220576
+    },
+    {
+      "component": "P2",
+      "proof_degree": 64,
+      "proof_modulus": 1125899906843221,
+      "m1_secret_polys": 48,
+      "binary_polys": 16,
+      "knowledge_error_log2_upstream": -127.0,
+      "MSIS_original": "MSIS(20,112,2^(40.173114))",
+      "MLWE_original": "MLWE(32,32,[-1,1])",
+      "MSIS_rhf_original": 1.00438,
+      "MSIS_rhf_recomputed": 1.0043792,
+      "MLWE_rhf_original": 1.0043146,
+      "theoretical_repetition_rate_original": 6.6355669
+    }
+  ],
+  "parameter_header_sha256": "8c262443270d723e528794c863082cce98e90ca35a501a602a4683b8f3b84e0e",
+  "protocol_modified": false,
+  "security_parameters_changed": false,
+  "session_extension": false,
+  "extra_verification_checks": true,
+  "measurement_only_hooks": false,
+  "bugfixes_applied": true,
+  "optimizations_applied": true,
+  "classical_quantum_new_estimates": "see security_metrics.json and attack_costs.csv; declared generic models only",
+  "anonymity_unforgeability_zero_knowledge": "retain original construction assumptions and conditional analysis; no new theorem or numeric whole-protocol bound claimed"
+}

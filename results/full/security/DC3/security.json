@@ -1,0 +1,233 @@
+{
+  "version": "1.1-e2-frozen-metrics",
+  "active_variant": "DC3",
+  "variant_metadata": {
+    "active_variant": "DC3",
+    "parent_e3_variant": "V4",
+    "compact": true,
+    "arp_preflight": true,
+    "float_decisions_enabled": false,
+    "float_shadow_diagnostic": true,
+    "main_variants": [
+      "B1",
+      "G3",
+      "C3"
+    ],
+    "schema": "E4-20261018"
+  },
+  "status": "VARIANT_ACCURATE_CONFIGURATION_RECORDED",
+  "upstream_commit": "10eafeca4cd53ff4fc54193dce904dbd0026fefd",
+  "upstream_generator_target_bits": 128,
+  "target_interpretation": "original upstream setting, not a new independent concrete-security certification",
+  "relation_degree": 64,
+  "relation_modulus": 12289,
+  "P1_relation_shape": [
+    8,
+    24
+  ],
+  "P2_relation_shape": [
+    8,
+    45
+  ],
+  "credential_relation": {
+    "P1_relation_shape": [
+      8,
+      24
+    ],
+    "P2_relation_shape": [
+      8,
+      45
+    ],
+    "P2_compact_subspace_table": [
+      {
+        "disclosed_attributes_k": 0,
+        "hidden_attributes_h": 8,
+        "param_symbol": "p2_param",
+        "relation_shape": [
+          8,
+          48
+        ],
+        "m1_secret_polys": 48,
+        "nbin_binary_polys": 16,
+        "nex_total_polys": 50,
+        "msis_bound_log2": 40.172528,
+        "MSIS_rhf_recomputed": 1.0043792,
+        "MSIS_rhf_5dec": 1.00438,
+        "max_proof_bytes_header": 30064
+      },
+      {
+        "disclosed_attributes_k": 1,
+        "hidden_attributes_h": 7,
+        "param_symbol": "p2_compact1_param",
+        "relation_shape": [
+          8,
+          47
+        ],
+        "m1_secret_polys": 47,
+        "nbin_binary_polys": 15,
+        "nex_total_polys": 49,
+        "msis_bound_log2": 40.159675,
+        "MSIS_rhf_recomputed": 1.0043764,
+        "MSIS_rhf_5dec": 1.00438,
+        "max_proof_bytes_header": 29872
+      },
+      {
+        "disclosed_attributes_k": 2,
+        "hidden_attributes_h": 6,
+        "param_symbol": "p2_compact2_param",
+        "relation_shape": [
+          8,
+          46
+        ],
+        "m1_secret_polys": 46,
+        "nbin_binary_polys": 14,
+        "nex_total_polys": 48,
+        "msis_bound_log2": 40.146588,
+        "MSIS_rhf_recomputed": 1.0043735,
+        "MSIS_rhf_5dec": 1.00437,
+        "max_proof_bytes_header": 29680
+      },
+      {
+        "disclosed_attributes_k": 3,
+        "hidden_attributes_h": 5,
+        "param_symbol": "p2_compact3_param",
+        "relation_shape": [
+          8,
+          45
+        ],
+        "m1_secret_polys": 45,
+        "nbin_binary_polys": 13,
+        "nex_total_polys": 47,
+        "msis_bound_log2": 40.133259,
+        "MSIS_rhf_recomputed": 1.0043706,
+        "MSIS_rhf_5dec": 1.00437,
+        "max_proof_bytes_header": 29488
+      },
+      {
+        "disclosed_attributes_k": 4,
+        "hidden_attributes_h": 4,
+        "param_symbol": "p2_compact4_param",
+        "relation_shape": [
+          8,
+          44
+        ],
+        "m1_secret_polys": 44,
+        "nbin_binary_polys": 12,
+        "nex_total_polys": 46,
+        "msis_bound_log2": 40.11968,
+        "MSIS_rhf_recomputed": 1.0043676,
+        "MSIS_rhf_5dec": 1.00437,
+        "max_proof_bytes_header": 29296
+      },
+      {
+        "disclosed_attributes_k": 5,
+        "hidden_attributes_h": 3,
+        "param_symbol": "p2_compact5_param",
+        "relation_shape": [
+          8,
+          43
+        ],
+        "m1_secret_polys": 43,
+        "nbin_binary_polys": 11,
+        "nex_total_polys": 45,
+        "msis_bound_log2": 40.105839,
+        "MSIS_rhf_recomputed": 1.0043646,
+        "MSIS_rhf_5dec": 1.00436,
+        "max_proof_bytes_header": 29104
+      },
+      {
+        "disclosed_attributes_k": 6,
+        "hidden_attributes_h": 2,
+        "param_symbol": "p2_compact6_param",
+        "relation_shape": [
+          8,
+          42
+        ],
+        "m1_secret_polys": 42,
+        "nbin_binary_polys": 10,
+        "nex_total_polys": 44,
+        "msis_bound_log2": 40.091729,
+        "MSIS_rhf_recomputed": 1.0043615,
+        "MSIS_rhf_5dec": 1.00436,
+        "max_proof_bytes_header": 28912
+      },
+      {
+        "disclosed_attributes_k": 7,
+        "hidden_attributes_h": 1,
+        "param_symbol": "p2_compact7_param",
+        "relation_shape": [
+          8,
+          41
+        ],
+        "m1_secret_polys": 41,
+        "nbin_binary_polys": 9,
+        "nex_total_polys": 43,
+        "msis_bound_log2": 40.077336,
+        "MSIS_rhf_recomputed": 1.0043584,
+        "MSIS_rhf_5dec": 1.00436,
+        "max_proof_bytes_header": 28720
+      },
+      {
+        "disclosed_attributes_k": 8,
+        "hidden_attributes_h": 0,
+        "param_symbol": "p2_compact8_param",
+        "relation_shape": [
+          8,
+          40
+        ],
+        "m1_secret_polys": 40,
+        "nbin_binary_polys": 8,
+        "nex_total_polys": 42,
+        "msis_bound_log2": 40.062651,
+        "MSIS_rhf_recomputed": 1.0043552,
+        "MSIS_rhf_5dec": 1.00436,
+        "max_proof_bytes_header": 28528
+      }
+    ]
+  },
+  "disclosed_blocks": [
+    0,
+    4,
+    5
+  ],
+  "proofs": [
+    {
+      "component": "P1",
+      "proof_degree": 64,
+      "proof_modulus": 2199023255717,
+      "m1_secret_polys": 24,
+      "binary_polys": 8,
+      "knowledge_error_log2_upstream": -127.0,
+      "MSIS_original": "MSIS(17,79,2^(33.599457))",
+      "MLWE_original": "MLWE(26,29,[-1,1])",
+      "MSIS_rhf_original": 1.0043951,
+      "MSIS_rhf_recomputed": 1.0043321,
+      "MLWE_rhf_original": 1.0043734,
+      "theoretical_repetition_rate_original": 6.8220576
+    },
+    {
+      "component": "P2",
+      "proof_degree": 64,
+      "proof_modulus": 1125899906843221,
+      "m1_secret_polys": 45,
+      "binary_polys": 13,
+      "knowledge_error_log2_upstream": -127.0,
+      "MSIS_original": "MSIS(20,109,2^(40.1333))",
+      "MLWE_original": "MLWE(32,32,[-1,1])",
+      "MSIS_rhf_original": 1.00437,
+      "MSIS_rhf_recomputed": 1.0043706,
+      "MLWE_rhf_original": 1.0043146,
+      "theoretical_repetition_rate_original": 6.6355669
+    }
+  ],
+  "parameter_header_sha256": "492d50261ff03acf8af524c000e24f7d7695503245c2ada84728c7b04f19e690",
+  "protocol_modified": true,
+  "security_parameters_changed": true,
+  "session_extension": false,
+  "extra_verification_checks": true,
+  "measurement_only_hooks": false,
+  "bugfixes_applied": true,
+  "optimizations_applied": true,
+  "classical_quantum_new_estimates": "see security_metrics.json and attack_costs.csv; declared generic models only",
+  "anonymity_unforgeability_zero_knowledge": "retain original construction assumptions and conditional analysis; no new theorem or numeric whole-protocol bound claimed"
+}

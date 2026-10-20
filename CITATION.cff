@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the associated paper when using this implementation and dataset."
+type: software
+title: "LaZer Anonymous Credentials: Repeated-Presentation and Selective-Disclosure Implementation Optimization"
+authors:
+  - family-names: Chen
+    given-names: Shuai
+  - family-names: Shen
+    given-names: Yong

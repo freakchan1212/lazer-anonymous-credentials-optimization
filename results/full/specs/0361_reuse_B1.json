@@ -1,0 +1,10 @@
+{
+  "task": "reuse",
+  "variant": "B1",
+  "sessions": 256,
+  "warmup": 0,
+  "formal": true,
+  "repeat": 1,
+  "verification_mode": "strict",
+  "id": "0361_reuse_B1"
+}

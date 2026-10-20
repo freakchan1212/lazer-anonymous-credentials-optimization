@@ -1,0 +1,42 @@
+[
+  {
+    "component": "P1",
+    "source": "unchanged upstream generated header comments",
+    "reported_standard_deviations": {
+      "stdev1": 203161.6,
+      "stdev2": 6348.8,
+      "stdev3": 12697.6,
+      "stdev4": 1625292.8
+    },
+    "reported_rejection_factors": {
+      "M1": 2.8228178,
+      "M2": 2.3533173,
+      "M3": 1.0131039,
+      "M4": 1.0136734
+    },
+    "challenge_omega": 8,
+    "challenge_eta": 140,
+    "original_metadata_comments": "// \n// protocol is statistically complete with correctness error >= 1 - 2^(-3)\n// protocol is simulatable under MLWE(26,29,[-1,1])\n// protocol is knowledge-sound with knowledge error <= 2^(-127.0) under MSIS(17,79,2^(33.599457))\n// \n// Ring\n// degree d = 64\n// modulus q = 2199023255717, log(q) ~ 41.0\n// factors q = q1\n// \n// Compression\n// D = 7\n// gamma = 54068, log(gamma) ~ 15.722487\n// \n// Dimensions of secrets\n// s1: m1 = 24\n// m: l = 0\n// s2: m2 = 55\n// \n// Size of secrets\n// l2(s1) <= alpha = 112.0\n// m unbounded\n// s2 uniform in [-nu,nu] = [-1,1]\n// \n// Norm proofs\n// binary: yes (dimension: 8)\n// exact euclidean: yes (dimensions: [16], bounds: [109.0])\n// approximate infinity: yes (psi: 3770.0139, dimension: 8, bound: 14591.313)\n// \n// Challenge space\n// c uniform in [-omega,omega] = [-8,8], o(c)=c, sqrt(l1(o(c)*c)) <= eta = 140\n// \n// Standard deviations\n// stdev1 = 203161.6, log(stdev1/1.55) = 17.0\n// stdev2 = 6348.8, log(stdev2/1.55) = 12.0\n// stdev3 = 12697.6, log(stdev3/1.55) = 13.0\n// stdev4 = 1625292.8, log(stdev4/1.55) = 20.0\n// \n// Repetition rate\n// M1 = 2.8228178\n// M2 = 2.3533173\n// M3 = 1.0131039\n// M4 = 1.0136734\n// total = 6.8220576\n// \n// Security\n// MSIS dimension: 17\n// MSIS root hermite factor: 1.0043951\n// MLWE dimension: 26\n// MLWE root hermite factor: 1.0043734\n// \n// Proof size\n// ~ 19.7128906250000 KiB\n// \n// 50 bit moduli for degree 64: [1125899906840833, 1125899906839937]\n// bit length of products: [49, 99]\n// inverses: [1, -162099428551732]",
+    "numeric_ZK_distance_bound_instantiated": false
+  },
+  {
+    "component": "P2",
+    "source": "unchanged upstream generated header comments",
+    "reported_standard_deviations": {
+      "stdev1": 13002342.4,
+      "stdev2": 6348.8,
+      "stdev3": 406323.2,
+      "stdev4": 832149913.6
+    },
+    "reported_rejection_factors": {
+      "M1": 2.3216894,
+      "M2": 2.707079,
+      "M3": 1.03536,
+      "M4": 1.0197215
+    },
+    "challenge_omega": 8,
+    "challenge_eta": 140,
+    "original_metadata_comments": "// \n// protocol is statistically complete with correctness error >= 1 - 2^(-3)\n// protocol is simulatable under MLWE(32,32,[-1,1])\n// protocol is knowledge-sound with knowledge error <= 2^(-127.0) under MSIS(20,112,2^(40.173114))\n// \n// Ring\n// degree d = 64\n// modulus q = 1125899906843221, log(q) ~ 50.0\n// factors q = q1\n// \n// Compression\n// D = 15\n// gamma = 16531490, log(gamma) ~ 23.978713\n// \n// Dimensions of secrets\n// s1: m1 = 48\n// m: l = 0\n// s2: m2 = 64\n// \n// Size of secrets\n// l2(s1) <= alpha = 5836.0\n// m unbounded\n// s2 uniform in [-nu,nu] = [-1,1]\n// \n// Norm proofs\n// binary: yes (dimension: 16)\n// exact euclidean: yes (dimensions: [16, 16], bounds: [109.0, 5833.9289])\n// approximate infinity: yes (psi: 3143.8325, dimension: 8, bound: 8958759.4)\n// \n// Challenge space\n// c uniform in [-omega,omega] = [-8,8], o(c)=c, sqrt(l1(o(c)*c)) <= eta = 140\n// \n// Standard deviations\n// stdev1 = 13002342.4, log(stdev1/1.55) = 23.0\n// stdev2 = 6348.8, log(stdev2/1.55) = 12.0\n// stdev3 = 406323.2, log(stdev3/1.55) = 18.0\n// stdev4 = 832149913.6, log(stdev4/1.55) = 29.0\n// \n// Repetition rate\n// M1 = 2.3216894\n// M2 = 2.707079\n// M3 = 1.03536\n// M4 = 1.0197215\n// total = 6.6355669\n// \n// Security\n// MSIS dimension: 20\n// MSIS root hermite factor: 1.0043793\n// MLWE dimension: 32\n// MLWE root hermite factor: 1.0043146\n// \n// Proof size\n// ~ 29.3593750000000 KiB\n// \n// 50 bit moduli for degree 64: [1125899906840833, 1125899906839937, 1125899906837633]\n// bit length of products: [49, 99, 149]\n// inverses: [1, -162099428551732, 296975494591860]",
+    "numeric_ZK_distance_bound_instantiated": false
+  }
+]

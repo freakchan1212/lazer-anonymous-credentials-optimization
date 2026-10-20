@@ -1,0 +1,11 @@
+{
+  "task": "policy",
+  "variant": "G3",
+  "pattern": "alternating",
+  "sessions": 100,
+  "warmup": 2,
+  "formal": true,
+  "verification_mode": "strict",
+  "seed": 1729,
+  "id": "0379_policy_G3"
+}

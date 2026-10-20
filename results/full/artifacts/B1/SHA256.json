@@ -1,0 +1,15 @@
+{
+  "PATCHES.json": "f46ea1dad1be07febe295ab3f4e80d90d878120ed847d62ba83a3db8a608cb29",
+  "baseline_hooks.h": "ccafa027b4bf071b6d510d381d75c23a36f1a7efc1c260cdc1a70f86e5221c11",
+  "06_rebuild_fast.sh": "25baec82c6f2ef0d3c5cb8fa893a0b21050cbd6db87e485e23eb9ca2b830a61e",
+  "E4_SOURCE_CHANGES.diff": "0943110b7beddf38d5c4e53a82774e9d6097d0e3883178316565d6058088e8c7",
+  "ACTIVE_VARIANT.json": "07888be53a6f26e7aac4bffd079fc1531ed8e7c977b8e030ae2cdca8d97f2c22",
+  "lazer/lazer.h": "5db4d078a6650ac973e72d3e679d14753306ff01d0e908a5d2ac2f001f9a0a62",
+  "lazer/src/lin-proofs.c": "4d30b38339e3e917b8a620da4a6b6d10f1583577152ddad025bb1fc0218c47be",
+  "lazer/src/rejection.c": "35b2dca089df5b6762153861be22cbaf95e743c2c37d9b0c7206276cd9fff449",
+  "lazer/src/poly.c": "c78d9dd7f55326693fbc5b9c5598d30eb4058a6f3df05cc842b871ec1e49b3b6",
+  "lazer/src/lnp-quad.c": "55f0e20bf0f537d104158b80a649def5b5bede3b96ddeca13bb80da1c51073ed",
+  "lazer/python/lazer.py": "95de7fd3b61984f5127441cabe057608b3fddaec173075db1b2be396f95f74d9",
+  "lazer/python/anon_cred/anon_cred.py": "33f3f2f566f7ba86927e5c2be3a5154cd70e801e254eaf2b3a1d090cc941711b",
+  "lazer/python/anon_cred/anon_cred_params.h": "8c262443270d723e528794c863082cce98e90ca35a501a602a4683b8f3b84e0e"
+}

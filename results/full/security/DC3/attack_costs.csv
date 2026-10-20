@@ -1,0 +1,6 @@
+component,attack,n,q,root_hermite_factor_delta0,beta,classical_log2_cost,quantum_log2_cost,model,evidence,coverage
+P1_MSIS,generic_SIS_subdimension_GSA,1088,2199023255717,1.0043951,347,101.324,91.955,ADPS16_CoreSVP_C0.292_Q0.265_no_BKZ_overhead,HEURISTIC_GENERIC_ATTACK_ESTIMATE,one declared attack family; no structured or auxiliary-hint attacks
+P1_MLWE,primal_uSVP_GSA,1664,2199023255717,1.0043734,350,102.19999999999999,92.75,ADPS16_CoreSVP_C0.292_Q0.265_no_BKZ_overhead,HEURISTIC_GENERIC_ATTACK_ESTIMATE,one declared attack family; no structured or auxiliary-hint attacks
+P2_MSIS,generic_SIS_subdimension_GSA,1280,1125899906843221,1.0043706,350,102.19999999999999,92.75,ADPS16_CoreSVP_C0.292_Q0.265_no_BKZ_overhead,HEURISTIC_GENERIC_ATTACK_ESTIMATE,one declared attack family; no structured or auxiliary-hint attacks
+P2_MLWE,primal_uSVP_GSA,2048,1125899906843221,1.0043146,356,103.952,94.34,ADPS16_CoreSVP_C0.292_Q0.265_no_BKZ_overhead,HEURISTIC_GENERIC_ATTACK_ESTIMATE,one declared attack family; no structured or auxiliary-hint attacks
+Falcon_NTRU_preimage_generic,generic_SIS_subdimension_GSA,512,12289,1.0038778,416,121.472,110.24000000000001,ADPS16_CoreSVP_C0.292_Q0.265_no_BKZ_overhead,HEURISTIC_UNSTRUCTURED_PREIMAGE_PROXY,generic proxy only; not BLNS auxiliary-hint unforgeability

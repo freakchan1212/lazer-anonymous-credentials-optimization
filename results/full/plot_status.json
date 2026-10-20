@@ -1,0 +1,15 @@
+{
+  "languages": [
+    {
+      "lang": "en",
+      "status": "COMPLETE",
+      "figures": 7
+    },
+    {
+      "lang": "zh",
+      "status": "COMPLETE",
+      "figures": 7
+    }
+  ],
+  "ignored_invalid_fonts": []
+}

@@ -1,0 +1,6 @@
+{
+  "task": "cross",
+  "variant": "G3",
+  "inputs": "verification/cross_G3_inputs.json",
+  "formal": false
+}

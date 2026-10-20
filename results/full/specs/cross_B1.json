@@ -1,0 +1,6 @@
+{
+  "task": "cross",
+  "variant": "B1",
+  "inputs": "verification/cross_B1_inputs.json",
+  "formal": false
+}

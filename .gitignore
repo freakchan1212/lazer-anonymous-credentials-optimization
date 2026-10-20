@@ -1,0 +1,44 @@
+# local Python/figure environments
+.venv/
+.venv_*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# rebuild outputs and native binaries
+project/.build/
+project/.deps/
+project/.compat-bin/
+project/.venv/
+project/logs/
+project/results/
+project/.e4.lock
+project/lazer/third_party/hexl-development/build/
+*.o
+*.so
+*.a
+*.dylib
+*.dll
+*.exe
+*.pyd
+CMakeCache.txt
+CMakeFiles/
+
+# rebuilt figures/tables and new experimental runs
+reproduced/
+reproduced_*/
+final_reproduced_*/
+paper_reproduced_*/
+results/e4_*/
+results/new_*/
+results/*_pilot*/
+results/*_smoke*/
+*.tar.gz
+*.log
+
+# user-local files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,8 @@
+{
+  "task": "subsets",
+  "variant": "C3",
+  "all_subsets": true,
+  "formal": false,
+  "seed": 20261018,
+  "id": "0403_subsets_C3"
+}

@@ -1,0 +1,10 @@
+{
+  "task": "k_sweep",
+  "variant": "G3",
+  "k": 1,
+  "sessions": 30,
+  "warmup": 2,
+  "formal": true,
+  "verification_mode": "strict",
+  "id": "0385_k_sweep_G3"
+}

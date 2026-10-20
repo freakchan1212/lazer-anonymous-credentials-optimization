@@ -1,0 +1,21 @@
+﻿table,caption,status,source
+1,表1 相关实现路线与代表性结果,PAPER_TRANSCRIPTION_ONLY,final DOCX; no new measurements
+2,表2 最近邻工作的方法层级与本文增量,PAPER_TRANSCRIPTION_ONLY,final DOCX; no new measurements
+3,表3 实验变体及其作用,PAPER_TRANSCRIPTION_ONLY,final DOCX; no new measurements
+4,表4 严格验证下的主要结果 每组合n=600 时间单位ms,RECOMPUTED_E4_VALUES_OR_RECORDED_REGRESSION,preserved JSONL / actual C arrays / finite native receipts; see legacy_fix123_tables/TABLE_PROVENANCE.csv
+5,表5 初始化 首次出示与服务摊销 每版本三次生命周期 单位 ms,RECOMPUTED_E4_VALUES_OR_RECORDED_REGRESSION,preserved JSONL / actual C arrays / finite native receipts; see legacy_fix123_tables/TABLE_PROVENANCE.csv
+6,表6 当前配置的声明通用攻击模型与 Core-SVP 成本,RECOMPUTED_E4_VALUES_OR_RECORDED_REGRESSION,preserved JSONL / actual C arrays / finite native receipts; see legacy_fix123_tables/TABLE_PROVENANCE.csv
+7,表7 主实验批次 有限实现回归覆盖,RECOMPUTED_E4_VALUES_OR_RECORDED_REGRESSION,preserved JSONL / actual C arrays / finite native receipts; see legacy_fix123_tables/TABLE_PROVENANCE.csv
+S1,表S1 历史批次 三种子固定币验证与构建标识,PAPER_TRANSCRIPTION_ONLY,final DOCX; no new measurements
+S2,表S2 历史批次 重复出示 累积结果 每版本 n=600 时间单位 ms,PAPER_TRANSCRIPTION_ONLY,final DOCX; no new measurements
+S3,表S3 历史批次 会话重建 累积结果 每版本 n=600 时间单位 ms,PAPER_TRANSCRIPTION_ONLY,final DOCX; no new measurements
+S4,表S4 历史批次 生命周期与资源指标 修正基线 模乘优化 候选紧致 对照,PAPER_TRANSCRIPTION_ONLY,final DOCX; no new measurements
+S5,表S5 历史批次 合并样本回归参数 每行 n=600,PAPER_TRANSCRIPTION_ONLY,final DOCX; no new measurements
+S6,表S6 历史批次 同批次 修正基线 到 候选紧致 相对变化 正值为耗时下降百分比,PAPER_TRANSCRIPTION_ONLY,final DOCX; no new measurements
+S7,表S7 历史批次 模乘优化 到 浮点候选 的 回归 变化 正值为下降百分比,PAPER_TRANSCRIPTION_ONLY,final DOCX; no new measurements
+S8,表S8 主实验批次 默认验证 接口结果 每格 n=600 单位 ms,RECOMPUTED_E4_VALUES_OR_RECORDED_REGRESSION,preserved JSONL / actual C arrays / finite native receipts; see legacy_fix123_tables/TABLE_PROVENANCE.csv
+S9,表S9 主实验批次 严格验证 模型与进程资源 每格 n=600,RECOMPUTED_E4_VALUES_OR_RECORDED_REGRESSION,preserved JSONL / actual C arrays / finite native receipts; see legacy_fix123_tables/TABLE_PROVENANCE.csv
+S10,表S10 策略变化 严格验证 每格100次正式出示,RECOMPUTED_E4_VALUES_OR_RECORDED_REGRESSION,preserved JSONL / actual C arrays / finite native receipts; see legacy_fix123_tables/TABLE_PROVENANCE.csv
+S11,表S11 相同公开属性数量的证明大小与出示耗时 每方案每个k为30次,RECOMPUTED_E4_VALUES_OR_RECORDED_REGRESSION,preserved JSONL / actual C arrays / finite native receipts; see legacy_fix123_tables/TABLE_PROVENANCE.csv
+S12,表S12 出示阶段全部披露数量的单项MSIS模型重算,RECOMPUTED_E4_VALUES_OR_RECORDED_REGRESSION,preserved JSONL / actual C arrays / finite native receipts; see legacy_fix123_tables/TABLE_PROVENANCE.csv
+S13,表S13 论文名称与原实验代号,PAPER_TRANSCRIPTION_ONLY,final DOCX; no new measurements

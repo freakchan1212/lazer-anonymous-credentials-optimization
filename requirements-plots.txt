@@ -1,0 +1,3 @@
+# Python 3.10+: use a fresh environment. Validated runtime: NumPy 2.3.5, Matplotlib 3.10.8.
+matplotlib==3.10.8
+numpy>=2.2,<3

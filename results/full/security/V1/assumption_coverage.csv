@@ -1,0 +1,8 @@
+component,numeric_evidence,numeric_output,scope
+P1_MSIS,HEURISTIC_GENERIC_ATTACK_ESTIMATE,attack_costs.csv,one declared attack family; no structured or auxiliary-hint attacks
+P1_MLWE,HEURISTIC_GENERIC_ATTACK_ESTIMATE,attack_costs.csv,one declared attack family; no structured or auxiliary-hint attacks
+P2_MSIS,HEURISTIC_GENERIC_ATTACK_ESTIMATE,attack_costs.csv,one declared attack family; no structured or auxiliary-hint attacks
+P2_MLWE,HEURISTIC_GENERIC_ATTACK_ESTIMATE,attack_costs.csv,one declared attack family; no structured or auxiliary-hint attacks
+issuance_commitment_hiding,UPSTREAM_CONDITIONAL_ASSUMPTION_NOT_INDEPENDENTLY_ESTIMATED,not instantiated,"Ar*r+Am*m uses original Gaussian r, sigma=3.1 and norm bound 109; proof-system MLWE is not a substitute for commitment hiding"
+BLNS_NTRU_ISISf_auxiliary_preimages,UPSTREAM_CONDITIONAL_ASSUMPTION_WITH_GENERIC_PROXY_ONLY,"Falcon_NTRU_preimage_generic is a proxy, not this assumption security",original construction needs preimage security with auxiliary samples and extraction/reduction conditions
+Fiat_Shamir_hash_and_ROM_QROM,ORIGINAL_TRANSCRIPT_RETAINED_NO_NEW_REDUCTION,no whole-protocol query-bound number,original SHAKE128 transcript; interactive knowledge error cannot be substituted for total ROM/QROM advantage
